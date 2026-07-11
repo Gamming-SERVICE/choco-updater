@@ -1,0 +1,8 @@
+{
+  "versionCode": 12,
+  "versionName": "1.0.0",
+  "apkUrl": "https://choco-updater.onrender.com/downloads/ChocoHub-Miner-v1.2.0.apk",
+  "title": "ChocoHub Miner v1.2.0",
+  "releaseNotes": "Initial Android release with background CPU mining, improved stability and Android 6–16 support.",
+  "mandatory": false
+}
